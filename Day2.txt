@@ -12,11 +12,51 @@ Introduction to linux
 -Shell is Used to communicate with the 'Kernel'
 -It simply convert the Input of the user to Language understand by The Kernel
 -Generally there are around 7 common shell types based on their feature 
-    -Bourne Shell (sh)
-    -Bourne Again Shell (bash)
-    -Z Shell (zsh)
-    -Fish Shell (fish)
-    -PowerShell
-  -They differ in Colouring,Piping,command compilation,some kind of features If u want to identify your shell type 'echo $shell'
-  -
-    
+    - Bourne Shell (sh)
+    - Bourne Again Shell (bash)
+    - Z Shell (zsh)
+    - Fish Shell (fish)
+    - PowerShell
+-They differ in Colouring,Piping,command compilation,some kind of features If u want to identify your shell type 'echo $shell'
+-So what is OS 
+-An operating system(OS) is software that manages computer hardware and software resources, providing a platform for other programs to run and facilitating user 
+ interactions with the computer
+-So Linux is a free and open-source operating system renowned for its stability, security, and versatility
+-It contain 
+    - Kernel
+    - Softwares
+    - libraries
+    - utilities
+-There are several popular desktop environments available for Linux, each offering a different user experience and visual style. Here are some examples:
+    - GNOME
+    - KDE Plasma
+    - Xfce
+    - Cinnamon
+    - MATE
+    - Unity
+-Why linux??
+    People choose Linux for several reasons:
+
+   1. Open Source: Linux is open source, meaning its source code is freely available. This allows users to customize, modify, and distribute the operating system 
+    according to their needs.
+
+   2. Stability and Reliability: Linux is known for its stability and reliability, making it an excellent choice for critical systems and servers that require 
+    uninterrupted operation.
+
+   3. Security: Linux is inherently more secure than many other operating systems, thanks to its robust permission system, regular security updates, and a vast 
+    community of developers constantly reviewing and improving its security.
+
+   4.Flexibility and Customization: Linux offers a high level of flexibility and customization, allowing users to tailor their system to their specific 
+   requirements, whether it's the choice of desktop environment, software packages, or system configurations.
+
+   5.Wide Range of Software: Linux provides a vast selection of free and open source software, including powerful development tools, office suites, multimedia 
+   applications, and more, offering a comprehensive software ecosystem.
+
+   6.Community and Support: Linux has a vibrant and supportive community of users and developers who actively contribute to its development, provide assistance, 
+     and share knowledge through forums, mailing lists, and online resources.
+
+   7. Cost-effectiveness: Linux is typically free to use, which can lead to significant cost savings, particularly for businesses and organizations that don't 
+      have to pay for expensive software licenses.
+
+
+
