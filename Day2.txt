@@ -1,0 +1,22 @@
+Introduction to linux 
+-Linux is "Kernel"
+    -Kernel is a program which is used to communicate our software and hardware 
+-The first Linux device was made on 1969 on PDP-7 mini computer 
+-It was made because their leader(Thompson) want it familiarity with the system from his hobby work on it and it wasn't cheap and open source 
+-Then Linus trovalds he created Linux operating system, released the initial version of the Linux kernel in 1991 and also amde it open source 
+-His Github https://github.com/torvalds
+-But right before Trovalds there was GNU project in 1983 which was announced by richard stallman
+-It was free replacement for the UNIX And it was only replacement which mean it wasn't full OS 
+-The combination of 'UNIX' 'GNU' gave us GNU/Linux OS 
+-So the shell is where all maic will appear 
+-Shell is Used to communicate with the 'Kernel'
+-It simply convert the Input of the user to Language understand by The Kernel
+-Generally there are around 7 common shell types based on their feature 
+    -Bourne Shell (sh)
+    -Bourne Again Shell (bash)
+    -Z Shell (zsh)
+    -Fish Shell (fish)
+    -PowerShell
+  -They differ in Colouring,Piping,command compilation,some kind of features If u want to identify your shell type 'echo $shell'
+  -
+    
